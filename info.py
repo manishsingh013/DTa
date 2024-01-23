@@ -5,4 +5,3 @@ SESSION      = "BQG4AKMAhsd18pDGu0BhtAorMRNA43GJs0PmCRfuZDbh1RdC-0xt7kGcJl9awKvT
 DATABASE_URI = "mongodb+srv://Manish:manish840@cluster0.vwgorze.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1002058032632
 ADMIN        = 1727021749
-AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 60))
