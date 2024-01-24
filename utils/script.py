@@ -1,8 +1,8 @@
 class script(object):
     START = """**Hello {} 🤟**
    
-I am **Find Post Bot**.I am best Channel Link Search Bot! 
-I Will filter your channel posts automatically and send it in your group chat when Someone search it."""
+I am **Movie Find Bot**.I am best Movie Link Search Bot! 
+I Will search your channel movies automatically and send it in your group chat when Someone search it."""
 
     HELP = """To Use me In A Group
 
